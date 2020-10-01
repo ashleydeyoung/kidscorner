@@ -15,17 +15,7 @@ body {
     height: 500px
   }
 
-  /* .mainbox:after{
-      position: absolute;
-      content: " ";
-      width: 25%;
-      height: 25%;
-      background: url('../../images/down.png') no-repeat;
-      background-size: 40px;
-      right: 130px;
-      top: 50px;
-      transform:translateY(-50%)
-  } */
+
 
   .arrow {
     margin: 5px;
