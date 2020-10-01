@@ -5,10 +5,13 @@ body {
     align-self: center;
     height: 100vh;
     overflow: hidden;
-    background: pink;
     background-size: cover;
+    background: cadetblue;
 }
 
+.jumbotron {
+  background:rgb(173, 204, 218);
+}
 .mainbox {
     position: relative;
     width: 500px;

@@ -22,7 +22,7 @@ class Wheel extends React.Component {
     return (
       <div id="mainbox" className="mainbox">
         <div className="button mt-4">
-          <button className="btn btn-primary spin" onClick={this.handleSpin}>
+          <button className="btn btn-danger spin" onClick={this.handleSpin}>
             SPIN
           </button>
         </div>

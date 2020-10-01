@@ -4,12 +4,13 @@ import React from "react";
 function Header(props) {
   return (
     <div className="jumbotron">
-      <h1 >Time Out Spinner</h1>
-      <p>
-        Oh No! You're in Time-OUT!
+      <h1 className="display-4">TIME OUT WHEEL</h1>
+      <p className="lead">
+        Oh No! You're in Time-Out!
       </p>
+      <hr class="my-4"></hr>
       <p>
-        Spin to see how many seconds you'll stay!
+        Spin to see how many seconds you'll have to stay!
       </p>
     </div>
   );
