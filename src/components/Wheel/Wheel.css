@@ -6,11 +6,11 @@ body {
     height: 100vh;
     overflow: hidden;
     background-size: cover;
-    background: cadetblue;
+    background: rgb(158, 209, 211);
 }
 
 .jumbotron {
-  background:rgb(173, 204, 218);
+  background:rgb(219, 247, 247);
 }
 .mainbox {
     position: relative;
