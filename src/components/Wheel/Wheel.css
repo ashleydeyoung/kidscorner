@@ -76,7 +76,7 @@ body {
     clip-path: polygon(50% 100%, 92% 0, 8% 0);
     transform: rotate(-45deg);
     background-color: purple;
-    top: 35px;
+    top: 34px;
     right: 205px
 
   }
@@ -85,7 +85,7 @@ body {
     background-color: rgb(255, 0, 191);
     transform: rotate(45deg);
     top:35px;
-    left: 205px
+    left: 204px
 
   }
   .span7 {
